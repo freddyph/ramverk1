@@ -1,0 +1,17 @@
+{
+    "name" : "anax/noname",
+    "description": "A me page for the ramverk1 course.",
+    "license": "MIT",
+    "minimum-stability": "beta",
+    "prefer-stable": true,
+    "autoload": {
+        "psr-4": {"Anax\\": "src/"}
+    },
+    "require": {
+        "anax/anax-ramverk1-me": "^1.0.0",
+        "phpunit/php-code-coverage": "^7.0",
+        "phpunit/phpunit": "^8.4"
+    },
+    "require-dev": {
+    }
+}
