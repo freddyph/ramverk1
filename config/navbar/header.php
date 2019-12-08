@@ -43,6 +43,11 @@ return [
             "url" => "ipchecker",
             "title" => "Validera IP.",
         ],
+        [
+            "text" => "IP-locator",
+            "url" => "ipgeo",
+            "title" => "Lokalisera IP.",
+        ],
         // [
         //     "text" => "Styleväljare",
         //     "url" => "style",
